@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "A Node.js assignment with various utility functions and an Express server.",
+  "main": "Q1.js",
+  "scripts": {
+    "start": "node Q1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
+
